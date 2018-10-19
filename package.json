@@ -1,0 +1,15 @@
+{
+  "name": "rob-obrien-uk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "angular": "^1.5.2",
+    "angular-ui-bootstrap": "^1.2.4",
+    "angular-route": "^1.6.7",
+    "bootstrap": "^3.3.4",
+    "github-db": "^1.1.3",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {}
+}
