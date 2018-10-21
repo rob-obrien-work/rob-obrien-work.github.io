@@ -12,3 +12,9 @@
 .comicSansBold { 
     font-family: "Comic Sans Bold", Verdana, Tahoma;
 }
+.navbar {
+    border-left: medium none;
+    border-radius: 5px;
+    border-right: medium none;
+    margine-top: 10px;
+}
