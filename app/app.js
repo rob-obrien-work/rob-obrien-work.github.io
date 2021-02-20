@@ -16,10 +16,10 @@
       controller: 'TestController',
       templateUrl: '/app/site/test/index.html'
     })
-    .when('/wishlist', {
+    //.when('/wishlist', {
       
-      templateUrl: '/app/site/wishlist/index.html'
-    })
+    //  templateUrl: '/app/site/wishlist/index.html'
+    //})
    .otherwise({ redirectTo: '/home' });
 
   }]);
